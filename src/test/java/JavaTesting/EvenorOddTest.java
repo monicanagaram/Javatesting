@@ -17,7 +17,6 @@ public class EvenorOddTest {
 	public void testOdd(){
 		int num = 1;
 		EvenorOdd test = new EvenorOdd();
-		sfsd
 		System.out.println("test");
 		Assert.assertEquals (test.evenorOdd(num), num + " Is odd", "Checking odd number");
 		
