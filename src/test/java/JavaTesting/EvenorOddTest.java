@@ -21,12 +21,12 @@ public class EvenorOddTest {
 		Assert.assertEquals (test.evenorOdd(num), num + " Is odd", "Checking odd number");
 		
 	}
-	@Test
+	/*@Test
 	public void testzero(){
 		int num = 0;
 		EvenorOdd test = new EvenorOdd();
 		System.out.println("test");
 		Assert.assertEquals("Checking even number", num + " Is neither even nor odd", test.evenorOdd(num));
 		
-	}
+	}*/
 }
