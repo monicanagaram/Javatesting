@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.643 s <<< FAILURE! - in TestSuite
+testzero(JavaTesting.EvenorOddTest)  Time elapsed: 0.018 s  <<< FAILURE!
+java.lang.AssertionError: 0 Is Even expected [0 Is neither even nor odd] but found [Checking even number]
+	at JavaTesting.EvenorOddTest.testzero(EvenorOddTest.java:29)
+
